@@ -2,7 +2,12 @@
 
 ## Project Team Members
 
-Our project team included: Dylan Cole, Nicole Daruwalla, Scott Geleas, and Kit Long.
+Our project team included: 
+
+Dylan Cole <https://github.com/Deucedadorian>
+Nicole Daruwalla <https://github.com/NDaruwalla>
+Scott Geleas <https://github.com/scottgeleas>
+Kit Long <https://github.com/kitclong>
 
 ## Project Title
 
@@ -89,6 +94,8 @@ The team used the following tools to create Reciflixor:
 The following image shows the key features of Reciflixor.
 
 ![A movie lover visits Reciflixor](assets/images/reciflixor.png)
+
+![Reciflecxor without any fields filled](assets/images/unh-bootcamp-projects.github.io_project-1-group-a_.png)
 
 
 ## Section- URL to Deployed Application
