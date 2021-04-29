@@ -93,10 +93,9 @@ The team used the following tools to create Reciflixor:
 
 The following image shows the key features of Reciflixor.
 
-![A movie lover visits Reciflixor](assets/images/reciflixor.png)
-
 ![Reciflecxor without any fields filled](assets/images/unh-bootcamp-projects.github.io_project-1-group-a_.png)
 
+![A movie lover visits Reciflixor](assets/images/reciflixor.png)
 
 ## Section- URL to Deployed Application
 
