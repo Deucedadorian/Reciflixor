@@ -4,10 +4,10 @@
 
 Our project team included: 
 
-Dylan Cole <https://github.com/Deucedadorian>
-Nicole Daruwalla <https://github.com/NDaruwalla>
-Scott Geleas <https://github.com/scottgeleas>
-Kit Long <https://github.com/kitclong>
+- Dylan Cole <https://github.com/Deucedadorian>
+- Nicole Daruwalla <https://github.com/NDaruwalla>
+- Scott Geleas <https://github.com/scottgeleas>
+- Kit Long <https://github.com/kitclong>
 
 ## Project Title
 
