@@ -1,4 +1,4 @@
-# project-1-group-a
+# Reciflixor
 
 ## Project Team Members
 
